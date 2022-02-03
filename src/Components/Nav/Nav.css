@@ -1,0 +1,41 @@
+.nav{
+    width: 120px;
+    
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0 25px;
+    padding-top: 10px;
+    background-color: #303C6C;
+    border-radius: 0 12px 12px 0;
+    height: 100%;
+}
+.nav_block{
+    display: grid;
+    background-color: #303C6C;
+    max-width: 100%;
+    height: 100%;
+    
+}
+ .icon{
+     display: inline-block;
+     padding: 2px;
+     margin-bottom: 25px;
+     height:100% ;
+     background-color:#303C6C ;
+     color: #fff;
+     width: 25px;
+ }
+
+ .icon:hover{
+     width: 26.5px;
+ }
+ .nav_blocks{
+    display: grid;
+    background-color: #303C6C;
+    max-width: 100%;
+    height: 100%;
+
+ }
+
+ 
